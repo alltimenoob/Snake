@@ -5,7 +5,7 @@ using namespace std;
 
 int main()
 {
-  	initwindow(500,500,"HELLO");
+  	initwindow(500,500,"Snake");
   
   	int w,x,y,z,t,i=0;
 
